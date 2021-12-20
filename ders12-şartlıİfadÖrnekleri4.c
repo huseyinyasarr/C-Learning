@@ -19,11 +19,11 @@ int main() {
 	f = a%6;
 	
 
-	if(d==0 || f==0) {
+	if(d==0 && f>0) {
 		printf("2'nin katıdır.");
 	}
 	
-	if(e==0) {
+	if(e==0 && f>0) {
 		printf("3'ün katıdır.");
 	}
 	
