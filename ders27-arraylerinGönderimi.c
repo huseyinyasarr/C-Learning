@@ -17,7 +17,7 @@ int main() {
 	
 	int array[6] = {1,2,3,4,5,6};
 	
-	printf("%d",carp(array,6)); // 5, burada boyut bilgisi anlamına gelir.
+	printf("%d",carp(array,6)); // 6, burada boyut bilgisi anlamına gelir.
 	
 	
 	

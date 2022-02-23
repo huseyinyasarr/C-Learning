@@ -4,7 +4,7 @@
 
 
 /*
-(sqrt(küpünü almak istediðin))
+(sqrt(kökünü almak istediðin))
 
 a*a +2*a*b +b*b
 
