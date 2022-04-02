@@ -5,10 +5,10 @@
 int main() {
 	setlocale(LC_ALL,"Turkish");
 	
-/*	bunþar giriþ ve tekrar amaçlý
+/*	bunlar giriþ ve tekrar amaçlý
 
 
-	int a = 1, *ap; //buradaki ap tamamen uydurmadýr. a, pointer anlamýna gelir. Kafa karýþýklýðýna yol açmasýn diyerekten bu þekilde yapýlýr.j
+	int a = 1, *ap; //buradaki ap tamamen uydurmadýr. a, pointer anlamýna gelir. Kafa karýþýklýðýna yol açmasýn diyerekten bu þekilde yapýlýr.
 	float b = 3.12, *bp;
 	double c = 4.144, *cp;
 	char d = 'h', *dp;

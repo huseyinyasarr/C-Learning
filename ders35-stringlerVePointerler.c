@@ -16,8 +16,10 @@ int benimstrlen(char *p) {
 
 int main() {
 	char yazi[] = "Hüseyin";
-		
-	printf("%d",benimstrlen(yazi));
+	int kelime;
+	kelime = benimstrlen(yazi);
+	
+	printf("%d",kelime);
 	
 	
 	

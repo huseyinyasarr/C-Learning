@@ -8,7 +8,7 @@ harf PARS karakterleri belleðe þu þekilde yerleþtirilir.
 'A'
 'R'
 'S'
-'\0'     harf karakterlerinin sonuna bu karakter gelerek kelimenin bittiðini anlar.
+'\0'     harf karakterlerinin sonuna bu karakter (null) gelerek kelimenin bittiðini anlar.
 
 bu bahsedilen olay sadece karakter dizileri için geçerlidir. Sayýlarda bu durum yoktur.
 */
